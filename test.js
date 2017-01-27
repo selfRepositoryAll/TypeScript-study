@@ -6,5 +6,3 @@ let obj={name:'xxx',age:44}
 for(let [key,value] of Object.entries(obj)){
     console.log(key,`:${value}`)
 }
-
-xxx
